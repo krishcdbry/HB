@@ -21,6 +21,7 @@
   "dependencies": {
     "angular": "~1.4.1",
     "font-awesome": "~4.3.0",
-    "bootstrap": "~3.3.5"
+    "bootstrap": "~3.3.5",
+    "doctrine": "~0.6.4"
   }
 }

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - HB_db@localhost" uuid="f0b0cbe5-9023-4880-922a-ac835dc5f782">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>HB_db.*</schema-pattern>
+      <default-schemas>HB_db.*</default-schemas>
+    </data-source>
+    <data-source name="MySQL - @localhost" uuid="14644f3d-a613-4f32-9f37-0ae8d0fcb914">
+      <secret-storage>master_key</secret-storage>
+      <first-sync>true</first-sync>
+    </data-source>
+  </component>
+</project>
+
